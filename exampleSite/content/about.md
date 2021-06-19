@@ -9,3 +9,5 @@ I received my M.A. in Political Science from UC Merced, and my B.A. in Political
 You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 
 {{< figure src="/images/me.jpeg">}}
+
+In his beard lived three <span style="color:red">cardinals</span>.
