@@ -10,9 +10,4 @@ I am a Taiwanese.
 I received my M.A. in Political Science from UC Merced, and my B.A. in Political Science and B.S. in Psychology from [National Cheng Kung University](http://web.ncku.edu.tw/bin/home.php)
 You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 
-&nbsp;
-<div id="picture">
-{{<figure src="../images/me.jpeg">}}
-</div>
-
-    {{< figure src="/images/me.jpeg" alt="Hi there!" class="right-aligned" >}}
+{{< figure src="/images/me.jpeg">}}
