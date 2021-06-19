@@ -1,28 +1,16 @@
----
-title: Teaching
-slug: teaching
----
 
-<div class="home">
     
-    <h3 style="color:rgb(51, 153, 255)"><b>Instructor of Record, UC Merced</b></h3>
+**Instructor of Record, UC Merced**
     
-    <p>Political Animal (Scheduled) </p>
+Political Animal (Scheduled)
     
-    <h3 style="color:rgb(51, 153, 255)"><b>Teaching Assistant & Teaching Fellow, UC Merced</b></h3>
+**Teaching Assistant & Teaching Fellow, UC Merced**
     
-    <p>Political Behavior Around the World </p>
-    
-    <p>Understanding Political Controversy (Introductory Research Methods & Statistics) </p>
-    
-    <p>Introduction to Comparative Politics</p>
-    
-    
-    
-</div>
+Political Behavior Around the World
 
-&nbsp;
-<div id="picture">
-{{<figure src="../images/pig.jpeg">}}
-</div>
+Understanding Political Controversy (Introductory Research Methods & Statistics) 
 
+Introduction to Comparative Politics
+
+{{< figure src="/images/pig.jpeg">}}
+    
