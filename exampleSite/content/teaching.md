@@ -1,6 +1,6 @@
 # Teaching
     
-## Instructor of Record, UC Merced
+<span style="color:blue">## Instructor of Record, UC Merced</span>
     
 Political Animal (Scheduled)
     
