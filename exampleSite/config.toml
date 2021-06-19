@@ -42,7 +42,9 @@ maxSeeAlsoItems = 5
 # Enable Twemoji
 enableTwemoji = false
 # Custom CSS
-customCSS = []
+customCSS = [.page h2, .post h2 {
+    color: red;
+}]
 # Custom SCSS
 customSCSS = []
 # Custom JS
