@@ -1,6 +1,6 @@
 ## Working Paper
     
-“Propaganda for Hearts in an Autocracy.” (with Xiaoxiao Shen)
+"Propaganda for Hearts in an Autocracy.” (with Xiaoxiao Shen)
 
 “Dehumanization and Polarization in the 2020 Taiwanese Presidential Election.” (with Chih-Cheng Meng)
 
