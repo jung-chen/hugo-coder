@@ -1,9 +1,11 @@
 
-## Instructor of Record, UC Merced
+## UC Merced
+
+### Instructor of Record
     
 Political Animal (Scheduled)
     
-## Teaching Assistant & Teaching Fellow, UC Merced
+### Teaching Assistant & Teaching Fellow
     
 Political Behavior Around the World
 
