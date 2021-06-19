@@ -14,3 +14,5 @@ You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 <div id="picture">
 {{<figure src="../images/me.jpeg">}}
 </div>
+
+    {{< figure src="/images/me.jpeg" alt="Hi there!" class="right-aligned" >}}
