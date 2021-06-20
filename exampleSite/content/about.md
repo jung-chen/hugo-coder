@@ -11,3 +11,4 @@ You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 &nbsp;
 
 {{< figure src="/images/me.jpeg">}}
+{{<p style="color:red">This is a paragraph.</p>}}
