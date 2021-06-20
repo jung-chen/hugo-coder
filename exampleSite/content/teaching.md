@@ -1,11 +1,13 @@
++++
+title = "Teaching"
+slug = "teaching"
++++
 
-## UC Merced
-
-### Instructor of Record
+## Instructor of Record, UC Merced
     
 Political Animal (Scheduled)
     
-### Teaching Assistant/Fellow
+## Teaching Assistant/Fellow, UC Merced
     
 Political Behavior Around the World
 
