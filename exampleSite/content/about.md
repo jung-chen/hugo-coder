@@ -10,5 +10,5 @@ You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 
 &nbsp;
 
-{{< figure src="/images/me.jpeg" width="400" height="200">}}
+{{< figure src="/images/me.jpeg" width="500" height="375">}}
 
