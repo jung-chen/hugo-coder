@@ -13,5 +13,7 @@ Understanding Political Controversy (Introductory Research Methods & Statistics)
 
 Introduction to Comparative Politics  
 
+  
+  
 {{< figure src="/images/pig.jpeg">}}
     
