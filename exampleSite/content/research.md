@@ -1,3 +1,8 @@
++++
+title = "Research"
+slug = "research"
++++
+
 ## Working Paper
     
 "Propaganda for Hearts in an Autocracy.” (with Xiaoxiao Shen)
