@@ -12,3 +12,4 @@ You can contact me at [jchen378@ucmerced.edu](mailto:jchen378@ucmerced.edu)
 
 {{< figure src="/images/me.jpeg" width="500" height="375">}}
 
+My mother has <span style="color:blue">blue</span> eyes.
