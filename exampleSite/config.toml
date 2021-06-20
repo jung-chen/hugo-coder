@@ -13,9 +13,9 @@ googleAnalytics = "G-E95ZF227WJ"
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "Jung Chen"
-description = "jung chen|polisci @ uc merced"
-keywords = "Jung Chen, political science, University of California, Merced"
+author = "Jung Chen 陳榮"
+description = "jung chen 陳榮|polisci @ uc merced"
+keywords = "Jung Chen, political science, University of California, Merced, 陳榮"
 info = "Ph.D. Candidate in Political Science"
 avatarurl = "images/me2.jpeg"
 footerContent = "polisci @ uc merced"
