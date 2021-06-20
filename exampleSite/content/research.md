@@ -13,7 +13,9 @@
 "Partisan Misperception Drives Self-Segregation in Cooperative Dilemmas.” (with Matthew V. Hibbing and Brad L. LeVeck)
    
 "Partisanship in Moral Reasoning and the Microfoundations of Partisan Violence.” (with Reagan J. Dobbs, Stephen P. Nicholson, and Alexander G. Theodoridis)
-    
+
+&nbsp;
+
 {{< figure src="/images/pigpigpig.jpeg">}}
     
 
